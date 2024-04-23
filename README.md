@@ -42,11 +42,6 @@
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 <br/>
-
-<a href="https://github.com/iuricode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renan%Siqueira%de%Souza&theme=dracula&show_icons=true" />
-</a>
-
 <h3>Onde me encontrar</h3>
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
