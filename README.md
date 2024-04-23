@@ -1,7 +1,7 @@
-<h3>Sobre mim</h3>
+<h3>Olá, eu sou o Renan!</h3>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software teste.
-- 🎓 Graduado em Analise e desenvolvimento de sistema pela <a href="link da sua faculdade">Unopar</a>.
+- 🤔 Programador full stack.
+- 🎓 Graduado em Analise e desenvolvimento de sistema pela <a href="https://www.unopar.com.br">Unopar</a>.
 - 💼 Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
 - 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
 
