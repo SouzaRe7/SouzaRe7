@@ -3,7 +3,7 @@
 - 🤔 Programador full stack.
 - 🎓 Graduado em Analise e desenvolvimento de sistema pela <a href="https://www.unopar.com.br">Unopar</a>.
 - 💼 Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🌱 &nbsp; Aprendendo mais sobre C# na <a href="https://www.wmbarros.com.br/">WMBarros treinamento em TI</a>
 
 <h3>Minhas Skills</h3>
 
